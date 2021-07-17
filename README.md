@@ -1,4 +1,5 @@
-Linked_List_Algorithum By Preyash Patel
+Linked_List_Algorithum using python it creates morethen 1cr node in less then 30 seconds🚀
+By Preyash Patel
 
 <h>
 
